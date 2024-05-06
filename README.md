@@ -6,4 +6,4 @@ docker-compose up
 ```
 
 ## TODO
-* Provate Messages
+* Private Messages
