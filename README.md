@@ -1,4 +1,4 @@
-### Simple Go chat app
+### Simple websocket chat in go
 
 ### Run on port 8080
 ```
